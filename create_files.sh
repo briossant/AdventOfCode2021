@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for f in {4..25}
+for f in {10..25}
 do
-    echo "" > "./inputs/day$f.txt"
+    echo "" > "./test_inputs/day$f.txt"
 done
