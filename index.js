@@ -5,7 +5,7 @@ const path = require('path');
 
 
 const day = '06';
-const test_input = true;
+const test_input = false;
 
 
 
